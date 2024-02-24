@@ -13,5 +13,5 @@ const studio = prompt("Silahkan pilih studio \n A: studio A \n B: studio B \n C:
         alert("Studio tidak valid");}
 
 } else {
-    alert("Anda tidak boleh masuk studio");
+    alert("Maaf, Anda tidak boleh masuk studio");
 }
