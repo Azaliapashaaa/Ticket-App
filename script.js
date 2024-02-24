@@ -8,7 +8,7 @@ if (umur >= 13) {
 
 const studio = prompt("Silahkan pilih studio \n A: studio A \n B: studio B \n C: studio C");
         if (studio === "A" || studio === "B" || studio === "C") {
-            alert(`Tiket ${nama} Studio ${studio} Umur ${umur}`);} 
+            alert(`Tiket ${nama}, Studio ${studio}, Umur ${umur}`);} 
         else {
         alert("Studio tidak valid");}
 
